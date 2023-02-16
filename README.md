@@ -1,1 +1,1 @@
-# Solar system simulation(accuracy(unknow))
+# Solar system simulation(accuracy(unknown))
